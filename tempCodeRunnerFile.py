@@ -1,0 +1,5 @@
+var1= IntVar()
+# Checkbutton(master, text="Hadir", variable=var1).grid(row=0, sticky=W)
+# var2= IntVar()
+# Checkbutton(master, text="Tidak Hadir", variable=var2).grid(row=1, sticky=W)
+# mainloop()
